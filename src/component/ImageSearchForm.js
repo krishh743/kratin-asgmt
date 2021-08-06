@@ -15,7 +15,7 @@ const ImageSearchForm = ({ onInputChange, onSubmit }) => {
             className="w-30 grow f4 link ph3 pv2 dib white bg-blue"
             onClick={onSubmit}  // add onClick function to perform task
           >
-            Detect
+           Sense image
           </button>
         </div>
       </div>
